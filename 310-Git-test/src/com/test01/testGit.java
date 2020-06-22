@@ -11,13 +11,4 @@ public interface testGit {
 
 	void m4();
 
-	
-
-	void m5();
-
-
-
-
-	
-
 }
