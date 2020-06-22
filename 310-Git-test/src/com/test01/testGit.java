@@ -11,9 +11,8 @@ public interface testGit {
 	void m4();
 
 	
-<<<<<<< HEAD
+
 	void m5();
 
-=======
->>>>>>> refs/heads/branch-1
+
 }
