@@ -8,4 +8,6 @@ public interface testGit {
 	void m3();
 	
 	void m4();
+	
+	void m5();
 }
